@@ -1,0 +1,5 @@
+click
+fastapi
+requests
+uvicorn
+gradio
